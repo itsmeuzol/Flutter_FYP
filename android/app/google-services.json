@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18154418053",
+    "project_id": "fyp-project-d1a2c",
+    "storage_bucket": "fyp-project-d1a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18154418053:android:644cd67e894322968cdeec",
+        "android_client_info": {
+          "package_name": "com.wastemgm.finalyear"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLeFdqe3lSmEtqpKscK8ASEtBtRhPClzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
